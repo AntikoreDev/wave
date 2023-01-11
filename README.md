@@ -11,6 +11,51 @@ When I watched that video I started to use that function a lot in my games, then
 
 See the original implementation (as of my knowledge): [main.gml](./languages/common/gml/main.gml) 
 
+# What's this function. 
+This 'wave' function basically receives two numbers and a duration, and the function will return a value between those 2 based on current time.
+This is an example for the python implementation (Imagine the wave function is already imported or added)
+
+```py
+for _ in range(200):
+  time.sleep(0.05)
+  print("#" * round(wave(0, 20, 1)))
+```
+
+### Outputs
+```bash
+##
+#####
+#########
+#############
+################
+###################
+####################
+####################
+##################
+###############
+###########
+#######
+###
+#
+
+#
+##
+######
+#########
+#############
+#################
+###################
+####################
+###################
+#################
+##############
+###########
+#######
+###
+#
+```
+The only really difficulty into making a new implementation is finding out how to get the current time in milliseconds. Any variable that moves increases constantly in milliseconds should work fine though.
+
 # Contributions
 To contribute to this project your submission may accomplish the following requirements:
 - The name of the file should be `main` if it's using the base language or a significative name if its using a framework. (f.e. [`unity.cs`](./languages/common/csharp/unity.cs))
