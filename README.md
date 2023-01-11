@@ -16,7 +16,9 @@ This 'wave' function basically receives two numbers and a duration, and the func
 This is an example for the python implementation (Imagine the wave function is already imported or added)
 
 ```py
-for _ in range(200):
+import time
+
+while True:
   time.sleep(0.05)
   print("#" * round(wave(0, 20, 1)))
 ```
