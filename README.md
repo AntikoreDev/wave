@@ -8,13 +8,13 @@
 
 This is a repository for storing all implementations of the same wave function from a Shaun Spalding's GameMaker Studio video in different programming languages.
 
-When I watched that video I started to use that function a lot in my games, then started to implement it in other languages for other of my projects, and that ended up in this repository. ([See video here](https://youtu.be/2FroAhEsuE8?t=268))
+When I watched that video I started to use that function a lot in my games, then began to implement it in other languages for other of my projects, and that ended up in this repository. ([See video here](https://youtu.be/2FroAhEsuE8?t=268))
 
 See the original implementation (as of my knowledge): [main.gml](./languages/common/gml/main.gml) 
 
 # What's this function. 
 This 'wave' function basically receives two numbers and a duration, and the function will return a value between those 2 based on current time.
-This is an example for the python implementation (Imagine the wave function is already imported or added)
+This is an example for the python implementation (For sake of simplicity, imagine the wave function has already been imported or added)
 
 ```py
 import time
@@ -57,7 +57,7 @@ while True:
 ###
 #
 ```
-The only really difficulty into making a new implementation is finding out how to get the current time in milliseconds. Any variable that moves increases constantly in milliseconds should work fine though.
+The only really difficulty into making a new implementation is finding out how to get the current time in milliseconds. Any variable that increases constantly in milliseconds should work fine though.
 
 # Contributions
 To contribute to this project your submission may accomplish the following requirements:
