@@ -1,10 +1,12 @@
 # The 'Wave' Vademecum
-<a href = "https://github.com/AntikoreDev/wave" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/wave"></a>
-<a href = "https://github.com/AntikoreDev/wave/pulls"><img alt = "Pull Requests" src = "https://img.shields.io/github/issues-pr/AntikoreDev/wave"></a>
-<a href = "https://github.com/AntikoreDev/wave/issues"><img alt = "Issues" src = "https://img.shields.io/github/issues/AntikoreDev/wave"></a>
-<a href = "https://github.com/AntikoreDev/wave/graphs/contributors"><img alt = "Contributors" src = "https://img.shields.io/github/contributors/AntikoreDev/wave"></a>
-<a href = "https://github.com/AntikoreDev/wave/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/wave"></a>
-<a href = "https://github.com/AntikoreDev/wave/blob/main/LICENSE"><img alt = "License" src = "https://img.shields.io/github/license/AntikoreDev/wave"></a>
+<div align="center">
+  <a href = "https://github.com/AntikoreDev/wave" onClick = "return false"><img alt = "Repo size" src = "https://img.shields.io/github/repo-size/AntikoreDev/wave?style=for-the-badge"></a>
+  <a href = "https://github.com/AntikoreDev/wave/pulls"><img alt = "Pull Requests" src = "https://img.shields.io/github/issues-pr/AntikoreDev/wave?style=for-the-badge"></a>
+  <a href = "https://github.com/AntikoreDev/wave/issues"><img alt = "Issues" src = "https://img.shields.io/github/issues/AntikoreDev/wave?style=for-the-badge"></a>
+  <a href = "https://github.com/AntikoreDev/wave/graphs/contributors"><img alt = "Contributors" src = "https://img.shields.io/github/contributors/AntikoreDev/wave?style=for-the-badge"></a>
+  <a href = "https://github.com/AntikoreDev/wave/stargazers"><img alt = "Stars" src = "https://img.shields.io/github/stars/AntikoreDev/wave?style=for-the-badge"></a>
+  <a href = "https://github.com/AntikoreDev/wave/blob/main/LICENSE"><img alt = "License" src = "https://img.shields.io/github/license/AntikoreDev/wave?style=for-the-badge"></a>
+</div>
 
 This is a repository for storing all implementations of the same wave function from a Shaun Spalding's GameMaker Studio video in different programming languages.
 
