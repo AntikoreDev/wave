@@ -6,7 +6,7 @@
 // @arg  {real} offset   Offset for the time.
 // @return {real} The value for the wave at that certain moment of time.
 
-function wave(from, to, duration, offset = 0){
-	var a4 = (to - from) * 0.5;
-	return from + a4 + sin((((current_time * 0.001) + duration * offset) / duration) * (pi * 2)) * a4;
-}
+function wave(_from, _to, _duration, _offset = 0){
+	var _a4 = (_to - _from) * 0.5;
+	return _from + _a4 + sin((((current_time * 0.001) + _duration * _offset) / _duration) * (pi * 2)) * _a4;
+}e
